@@ -1,0 +1,12 @@
+/home/juancho/GIT/dotnet/AspNetIntermediate/bin/Debug/netcoreapp2.0/app.db
+/home/juancho/GIT/dotnet/AspNetIntermediate/bin/Debug/netcoreapp2.0/AspNetIntermediate.deps.json
+/home/juancho/GIT/dotnet/AspNetIntermediate/bin/Debug/netcoreapp2.0/AspNetIntermediate.runtimeconfig.json
+/home/juancho/GIT/dotnet/AspNetIntermediate/bin/Debug/netcoreapp2.0/AspNetIntermediate.runtimeconfig.dev.json
+/home/juancho/GIT/dotnet/AspNetIntermediate/bin/Debug/netcoreapp2.0/AspNetIntermediate.dll
+/home/juancho/GIT/dotnet/AspNetIntermediate/bin/Debug/netcoreapp2.0/AspNetIntermediate.pdb
+/home/juancho/GIT/dotnet/AspNetIntermediate/obj/Debug/netcoreapp2.0/AspNetIntermediate.csproj.CoreCompileInputs.cache
+/home/juancho/GIT/dotnet/AspNetIntermediate/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/home/juancho/GIT/dotnet/AspNetIntermediate/obj/Debug/netcoreapp2.0/AspNetIntermediate.AssemblyInfoInputs.cache
+/home/juancho/GIT/dotnet/AspNetIntermediate/obj/Debug/netcoreapp2.0/AspNetIntermediate.AssemblyInfo.cs
+/home/juancho/GIT/dotnet/AspNetIntermediate/obj/Debug/netcoreapp2.0/AspNetIntermediate.dll
+/home/juancho/GIT/dotnet/AspNetIntermediate/obj/Debug/netcoreapp2.0/AspNetIntermediate.pdb

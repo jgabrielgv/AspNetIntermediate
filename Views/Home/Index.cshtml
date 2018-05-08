@@ -1,0 +1,6 @@
+﻿@inject Microsoft.Extensions.Configuration.IConfiguration Configuration
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1>This is my machine name: @Configuration["MyTwitterKey"]</h1>
